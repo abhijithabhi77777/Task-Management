@@ -29,7 +29,6 @@ class _StylingDropDownState extends State<StylingDropDown> {
       child: DropdownButtonHideUnderline(
         child: DropdownButton2<String>(
           isExpanded: true,
-          disabledHint: Text('010101'),
           hint: Row(
             children: [
               Image.asset(

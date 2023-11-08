@@ -102,8 +102,8 @@ class HomeNavBar extends StatelessWidget {
                         subtitleText, const HomeScreen(), 42),
                     navButton(false, 'assets/images/sort.png', 'Sort by',
                         subtitleText, const HomeScreen(), 42),
-                    filterButton(
-                        'assets/images/filter.png', 'Filter', subtitleText, 42),
+                    // filterButton(
+                    //     'assets/images/filter.png', 'Filter', subtitleText, 42),
                   ],
                 ),
               )
